@@ -1,0 +1,10 @@
+A (currently incomplete) flip pad. Scribble something, add a new page
+then scribble again.
+
+Should remind you of scribbling on multiple pages of a post-it note pack,
+then quickly flipping through to see the "animation".
+
+Python 2.x and Pygame.
+
+Windows build is in flippy_pad_windows.zip. Created with py2exe. Tested on XP and 7.
+
